@@ -1,0 +1,6 @@
+- ```sudo apt update``` - update sources
+- ```sudo apt upgrade``` - upgrade packages
+- ```sudo apt install gcc make perl``` - install guests methods for virtual machine
+- ```sudo apt install openssh-server``` - for connect by ssh
+- ```sudo systemctl status sshd```
+- ```ip a``` - show ip address
