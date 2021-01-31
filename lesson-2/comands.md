@@ -11,5 +11,7 @@
 ```more``` - print with pages
 ```less``` - print with pages
 ```tail [-f]``` - print file tail
+```ssh-keygen```
 ```ssh-copy-id user@host```
+```systemctl restart [DEMON]``` - restart demon
 
